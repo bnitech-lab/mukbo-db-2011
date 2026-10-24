@@ -1,0 +1,24 @@
+# Empty header created locally for the build (see README)
+stdafx.h
+
+# Build output
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.pch
+Debug/
+Release/
+
+# Visual Studio and editor files
+.vs/
+*.user
+*.suo
+*.sdf
+*.ncb
+*.VC.db
+*.VC.opendb
+.vscode/
+.DS_Store
